@@ -1,0 +1,27 @@
+{
+  "name": "Data-structures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint '**/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nawal-401d3/Data-structures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nawal-401d3/Data-structures/issues"
+  },
+  "homepage": "https://github.com/Nawal-401d3/Data-structures#readme",
+  "dependencies": {
+    "eslint": "^7.0.0"
+  }
+}
