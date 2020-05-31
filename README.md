@@ -1,19 +1,22 @@
-# Data-structures
+# Data-structures-and-algorithms 
 
-## Brief about the code challenge 
-- what is the linked list ? 
+# code challenge topic
+- what is the code challenge topic and a brief description of it? 
 
 ## Challenge description 
-- what you should to do ? 
+- what you should do ? 
 
 ## Approach & Efficiency
-- Approch : How you will gonnna do it , explain 
-- Efficiency : Big O => explain it based on your code 
+- Approach : How you will gonna do it, explain 
+- Efficiency : Big O => explain it based on your code ( space / time )
 
 ```javascript 
-let Name = 'code challenge' ;
+
+any code you want to put it here
+(optional)
 
 ```
 
-## White-Board
-[The Image](https://www.albawaba.com/sites/default/files/styles/default/public/2020-01/SherineWahad.jpg?itok=q3aFU1Gk)
+## WhiteBoard / CI
+- [an image](URL)
+- [Github Actions](URL)
